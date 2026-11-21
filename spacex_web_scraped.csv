@@ -1,0 +1,8 @@
+Flight No.,Launch site,Payload,Payload mass,Orbit,Customer,Launch outcome,Version Booster,Booster landing,Date,Time
+1,CCAFS,Dragon Spacecraft Qualification Unit,0,LEO,SpaceX,Success,F9 v1.07B0003.1,Failure,4 June 2010,18:45
+2,CCAFS,Dragon,0,LEO,NASA,Success,F9 v1.07B0004.1,Failure,8 December 2010,15:43
+3,CCAFS,Dragon,525 kg,LEO,NASA,Success,F9 v1.07B0005.1,No,22 May 2012,07:44
+4,CCAFS,SpaceX CRS-1,"4,700 kg",LEO,NASA,Success,F9 v1.07B0006.1,No attempt,8 October 2012,00:35
+5,CCAFS,SpaceX CRS-2,"4,877 kg",LEO,NASA,Success,F9 v1.07B0007.1,No,1 March 2013,15:10
+6,VAFB,CASSIOPE,500 kg,Polar orbit,MDA,Success,F9 v1.17B1003,Uncontrolled,29 September 2013,16:00
+7,CCAFS,SES-8,"3,170 kg",GTO,SES,Success,F9 v1.1,No,3 December 2013,22:41
